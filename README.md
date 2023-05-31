@@ -24,4 +24,6 @@ data = pd.read_csv("dermatology_data.csv")
 data.head(5)
 ```
 
-Yazı serisinin tamamını okumak için [tıklayınız](https://github.com/tr-brain-com/acikhack2023TDDI/blob/main/utils/run_split_kfold.py).
+Yazı serisinin tamamını okumak için [tıklayınız](https://www.brain-tr.com/dengesiz-verilerin-imbalanced-ustesinden-nasil-gelebiliriz/).
+
+Notebook dosyası için [tıklayınız](https://github.com/tr-brain-com/smote-app/blob/main/smote_app.ipynb).
